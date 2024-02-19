@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Desapp02</string>
+    <string name="lbl_name">Your name:</string>
+    <string name="btn_send">Send</string>
+    <string name="hint_write_here">Write something here</string>
+    <string name="write_your_name_message">Write your name.</string>
+    <string name="welcome_message"> Hi %s! welcome.</string>
+</resources>
